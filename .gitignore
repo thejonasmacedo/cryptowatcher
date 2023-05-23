@@ -1,11 +1,11 @@
 bin/
 include/
 lib/
-lib64/
 share/
 tests/
 share/
 
+lib64
 pyvenv.cfg
 
 # some upgrades, ideas and even probs
