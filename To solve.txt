@@ -1,0 +1,6 @@
+
+
+To solve:
+-The graph is limited to the parameters
+-Get a way to input the values from market cap to xs and ys
+-Create 2 diferent parameters for x and y, example, days in x axis and y axis for money 
