@@ -4,3 +4,4 @@ To solve:
 -The graph is limited to the parameters
 -Get a way to input the values from market cap to xs and ys
 -Create 2 diferent parameters for x and y, example, days in x axis and y axis for money 
+-Create a functionality that gives us the possibility to start storage data from moment the user choices, to the moment that he wants to stop it
